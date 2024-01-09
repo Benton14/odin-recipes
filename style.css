@@ -1,0 +1,38 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: #80808040;
+}
+
+a {
+    color: red;
+    font-size: 22px;
+    background-color: #ffff00;
+}
+
+h1 {
+    background-color: #ff000080;
+}
+
+ul {
+    color: purple;
+}
+
+#text {
+    color: white;
+}
+
+p {
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ingredients {
+    background-color: #0000ff80;
+}
+
+ul #points {
+    color: green;
+}
